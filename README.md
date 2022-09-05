@@ -1,2 +1,2 @@
-# AndroidCarousel9881
+# AndroidCarousel
 NeoSoft android assignment
